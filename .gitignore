@@ -1,0 +1,7 @@
+.augment/
+.vscode/
+__pycache__/
+planning.txt
+data/
+*.pdf
+*.png
